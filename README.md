@@ -229,7 +229,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/[project-owner]/cpre-331.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/[project-owner]/[project-name].svg?style=for-the-badge
 [contributors-url]: https://github.com/[project-owner]/[project-name]/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/[project-owner]/[project-name].svg?style=for-the-badge
 [forks-url]: https://github.com/[project-owner]/[project-name]/network/members
