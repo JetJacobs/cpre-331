@@ -225,7 +225,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [project-name]: cpre-331
 
-[project-owner] jetjacobs
+[project-owner]: jetjacobs
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
