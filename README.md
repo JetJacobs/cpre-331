@@ -234,7 +234,7 @@ $-->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/{{PROJECT_OWNER}}/cpre-331.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/{{ PROJECT_OWNER }}/cpre-331.svg?style=for-the-badge
 [contributors-url]: https://github.com/jetjacobs/cpre-331/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/jetjacobs/cpre-331.svg?style=for-the-badge
 [forks-url]: https://github.com/jetjacobs/cpre-331/network/members
